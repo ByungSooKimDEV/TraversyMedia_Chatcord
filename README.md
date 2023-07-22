@@ -34,7 +34,3 @@ After entering your username and room information, you can start the chat.
 
 [chat page]
 ![chat](./public/img/chat.png)
-
-## License
-
-This project is licensed under the [License Name] License. Refer to the `LICENSE` file for more information.
