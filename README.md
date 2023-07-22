@@ -1,32 +1,39 @@
 # TraversyMedia_Chatcord
 
-# Project Title
-
-Write a brief introduction of the project here.
+This project is a real-time chat application built using websockets.
 
 ## Reference Sites
+
+Click on the links to visit the respective sites.
 
 -   [Link Traversy Media YouTube] https://github.com/bradtraversy/chatcord
 -   [Link Traversy Media GitHub] https://www.youtube.com/watch?v=jD7FnbI76Hg
 
-Click on the links to visit the respective sites.
+## Tech Stack
+
+List the technologies and tools used in the project:
+
+-   Front-end: HTML, CSS, JavaScript
+-   Back-end: Node.js, Express.js, Socket.io
 
 ## Installation
 
-Explain how to install and use the project. Include any necessary setup or configuration.
+```
+npm install
+npm run dev
+
+http://localhost:3000/
+```
 
 ## Usage Example
 
-Provide examples or screenshots demonstrating the usage of the project.
+After entering your username and room information, you can start the chat.
 
-## How to Contribute
+[index page]
+![index](./public/img/index.png)
 
-Explain how others can contribute to the project.
-
-1. Fork the repository.
-2. Create a new branch for your work.
-3. Commit your changes.
-4. Create a pull request to the original repository.
+[chat page]
+![chat](./public/img/chat.png)
 
 ## License
 
